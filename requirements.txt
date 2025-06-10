@@ -1,0 +1,6 @@
+pytest==8.3.5
+selene==2.0.0rc9
+selenium~=4.33.0
+pandas~=2.3.0
+openpyxl~=3.1.5
+pypdf~=5.6.0
